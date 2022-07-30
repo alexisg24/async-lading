@@ -1,8 +1,8 @@
-#Rick & Morthy API WebSite
+#Rick & Morty API WebSite
 ### Description
 
-Single website of API Rest course on platzi.<br>
-Developed by Alexis Garcia<br>
-https://alexisg24.github.io/async-lading/<br>
+Single website of API Rest course on platzi.
+Developed by Alexis Garcia
+https://alexisg24.github.io/async-lading/
 
 ###End
